@@ -153,7 +153,13 @@ Frontend Developer
       </a>
       <br>Next JS
     </td>
- <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90" font='13'>
+      <a href="#my-stack" >
+        <img src="https://raw.githubusercontent.com/TanStack/query/a3785608fd5549730a4e97c503c1a3e428c1ed9f/media/emblem-light.svg" width="36" height="36" alt="TanStack Query" />
+      </a>
+      <br>TanStack Query
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#my-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
@@ -165,14 +171,14 @@ Frontend Developer
       </a>
       <br>MUI
     </td>
-   <td align="center" width="110" height="90">
+  </tr> 
+    <tr>
+      <td align="center" width="110" height="90">
       <a href="#my-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
-    <tr>
     <td align="center" width="110" height="90"> 
       <a href="#my-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
