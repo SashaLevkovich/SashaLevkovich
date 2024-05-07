@@ -248,7 +248,7 @@ Frontend Developer
 
 - :airplane: &nbsp;**[Telegram](https://t.me/lhrec)**
 - :comet: &nbsp;**[Github](https://github.com/SashaLevkovich)**
-- - 🪢 &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksandr-levkovich-14322a262/)**
+- 🪢 &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksandr-levkovich-14322a262/)**
 
 
 <br>
