@@ -14,6 +14,7 @@ Frontend Developer
 - :office: &nbsp;I'm currently working at **[Gismart](https://gismart.com/)**
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/lhrec)**
+- 🪢 &nbsp;Let's connect in **[LinkedIn](https://www.linkedin.com/in/aleksandr-levkovich-14322a262/)**
 
 <br>
 
@@ -247,5 +248,7 @@ Frontend Developer
 
 - :airplane: &nbsp;**[Telegram](https://t.me/lhrec)**
 - :comet: &nbsp;**[Github](https://github.com/SashaLevkovich)**
+- - 🪢 &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksandr-levkovich-14322a262/)**
+
 
 <br>
